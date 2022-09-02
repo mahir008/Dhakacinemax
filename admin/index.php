@@ -1,3 +1,8 @@
+
+
+</body>
+</html>
+
 <!DOCTYPE html>
 <html lang="en">
 </div>
@@ -95,7 +100,7 @@ body  {
     <div class="container">
         <form method="post" action="">
             <div id="div_login">
-                <h1>Login</h1>
+                <h1>Admin Login</h1>
                 <div>
                     <input type="text" class="textbox" id="txt_uname" name="txt_uname" placeholder="Username" />
                 </div>

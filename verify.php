@@ -31,7 +31,28 @@ if (isset($_POST['submit'])) {
     $result = mysqli_query($con, $qry);
 }
 
-?>
+?><!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+
+<img src="bkash.jpg" alt="Paris" style="width:10%;">
+
+</body>
+</html>
+
+
 <!doctype html>
 <html lang="en">
 
@@ -130,7 +151,7 @@ if (isset($_POST['submit'])) {
                 </tbody>
             </table>
             * - Please pay the amount on Bkash and bring the order id to ticket counter upon entry
-            <img src="IMG_8120.PNG"class="animated-gif">
+            
         </form>
     </center>
     <!-- Optional JavaScript -->

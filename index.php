@@ -1,5 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("op.jpg");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
 
 <head>
     <meta charset="UTF-8">
