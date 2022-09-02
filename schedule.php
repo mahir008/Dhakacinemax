@@ -18,11 +18,10 @@
     <div class="schedule-section">
         <h1>Schedule</h1>
         <div class="schedule-dates">
-            <div class="schedule-item">March 10,2019</div>
-            <div class="schedule-item schedule-item-selected">March 11,2019</div>
-            <div class="schedule-item">March 12,2019</div>
-            <div class="schedule-item">March 13,2019</div>
-            <div class="schedule-item">March 14,2019</div>
+            <div class="schedule-item">Sept 10,2022</div>
+            <div class="schedule-item">Sept 11,2022</div>
+            <div class="schedule-item">Sept 12,2022</div>
+            <div class="schedule-item">Sept 13,2022</div>
         </div>
         <div class="schedule-table">
             <table>
@@ -32,10 +31,10 @@
                 </tr>
                 <tr class="fade-scroll">
                     <td>
-                        <h2>Captain Marvel</h2>
-                        <i class="far fa-clock"></i> 125m <i class="fas fa-desktop"></i> IMAX
+                        <h2>Hawa</h2>
+                        <i class="far fa-clock"></i> 175m <i class="fas fa-desktop"></i> IMAX
                         <h3>SYNOPSIS</h3>
-                        <p>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization
+                        <p>Hawa is a Bangladeshi mystery-drama film written and directed by Mejbaur Rahman Sumon. The film is produced by Facecard Productions and Sun Music & Motion Pictures Limited. The film stars Chanchal Chowdhury, Nazifa Tushi, Sariful Razz, Sumon Anowar, Shohel Mondol, Nasir Uddin Khan, and Rizvi Rizu among others
                         </p>
                         <div class="schedule-item"> DETAILS</a>
                         </div>
@@ -72,10 +71,10 @@
                 </tr>
                 <tr class="fade-scroll">
                     <td>
-                        <h2>Captain Marvel</h2>
-                        <i class="far fa-clock"></i> 125m <i class="fas fa-desktop"></i> IMAX
+                        <h2>Spiderman No Way Home</h2>
+                        <i class="far fa-clock"></i> 160m <i class="fas fa-desktop"></i> IMAX
                         <h3>SYNOPSIS</h3>
-                        <p>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization
+                        <p>Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.
                         </p>
                         <div class="schedule-item"> DETAILS</a>
                         </div>
@@ -112,10 +111,10 @@
                 </tr>
                 <tr class="fade-scroll">
                     <td>
-                        <h2>Captain Marvel</h2>
-                        <i class="far fa-clock"></i> 125m <i class="fas fa-desktop"></i> IMAX
+                        <h2>Poran</h2>
+                        <i class="far fa-clock"></i> 130m <i class="fas fa-desktop"></i> IMAX
                         <h3>SYNOPSIS</h3>
-                        <p>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization
+                        <p>Poran is a 2022 Bangladeshi romantic thriller film directed by Raihan Rafi and produced by Md Tamzid Ul Alam under his production banner Live Technologies. Based on true events, the film features Bidya Sinha Saha Mim, Sariful Razz, and Yash Rohan in lead roles
                         </p>
                         <div class="schedule-item"> DETAILS</a>
                         </div>
@@ -152,10 +151,10 @@
                 </tr>
                 <tr class="fade-scroll">
                     <td>
-                        <h2>Captain Marvel</h2>
-                        <i class="far fa-clock"></i> 125m <i class="fas fa-desktop"></i> IMAX
+                        <h2>Intersteller</h2>
+                        <i class="far fa-clock"></i> 235m <i class="fas fa-desktop"></i> IMAX
                         <h3>SYNOPSIS</h3>
-                        <p>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization
+                        <p>When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.
                         </p>
                         <div class="schedule-item"> DETAILS</a>
                         </div>
@@ -192,10 +191,10 @@
                 </tr>
                 <tr class="fade-scroll">
                     <td>
-                        <h2>Captain Marvel</h2>
+                        <h2>Avengers Secret Wars</h2>
                         <i class="far fa-clock"></i> 125m <i class="fas fa-desktop"></i> IMAX
                         <h3>SYNOPSIS</h3>
-                        <p>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization
+                        <p>The film is a sequel to The Avengers, Avengers: Age of Ultron, Avengers: Infinity War, Avengers: Endgame and Avengers: The Kang Dynasty. It is the forty-second film of the Marvel Cinematic Universe and the final installment of Phase Six and The Multiverse Saga.
                         </p>
                         <div class="schedule-item"> DETAILS</a>
                         </div>
@@ -232,10 +231,10 @@
                 </tr>
                 <tr class="fade-scroll">
                     <td>
-                        <h2>Captain Marvel</h2>
+                        <h2>Joker Folie à deux</h2>
                         <i class="far fa-clock"></i> 125m <i class="fas fa-desktop"></i> IMAX
                         <h3>SYNOPSIS</h3>
-                        <p>Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization
+                        <p>Folie à deux is a French term that refers to a mental disorder impacting two or more individuals. So now we know that Quinn will join the Joker
                         </p>
                         <div class="schedule-item"> DETAILS</a>
                         </div>

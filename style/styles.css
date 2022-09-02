@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 @import url("https://fonts.googleapis.com/css?family=Lobster");
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
 
 * {
   margin: 0;
@@ -34,9 +35,9 @@ header {
   left: -25%;
   height: 219%;
   width: 200%;
-  background: #aa964c;
-  box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.1);
-  transform: rotateZ(-6deg) skew(-6deg);
+  background: #512989;
+  box-shadow: 5px 10px 0px rgba(0, 0, 0, 0.1);
+  transform: rotateZ(-30deg) skew(-40deg);
 }
 
 .navbar-brand .navbar-heading {
@@ -47,10 +48,10 @@ header {
   margin: 0;
   color: #fff;
   font-size: 7em;
-  font-family: "Lobster", cursive;
-  transform: rotateZ(-6deg);
-  text-shadow: 2px 2px 0px #6e5a11, 4px 4px 0px #836d24, 6px 6px 0px #a88616,
-    8px 8px 0px #b08909, 10px 10px 0px #ab995e;
+  font-family: "Audiowide";
+  
+  text-shadow: 2px 2px 0px #431D53, 4px 4px 0px #4F2271, 6px 6px 0px #512989,
+    8px 8px 0px #DE6EA1, 10px 10px 0px #9F2B67;
 }
 
 nav {
@@ -108,105 +109,22 @@ nav {
   right: 1%;
 }
 
-/* Footer Styling */
-
-footer {
-  display: grid;
-  grid-gap: 5px;
-  padding: 10px 10%;
-  background-color: #4e4e4e;
-  color: #fff;
-  bottom: 0;
-  width: 100%;
-  margin-top: 40px;
-}
-.footer-brand {
-    overflow: hidden;
-  }
-  
-  .footer-brand:before {
-    content: "";
-    display: block;
-    position: relative;
-    background: #aa964c;
-    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.1);
-  }
-  
-  .footer-brand .footer-heading {
-    position: relative;
-    top: 1vmax;
-    left: 1vmax;
-    padding: 0;
-    margin: 0;
-    color: #fff;
-    font-size: 7em;
-    font-family: "Lobster", cursive;
-    text-shadow: 2px 2px 0px #6e5a11, 4px 4px 0px #836d24, 6px 6px 0px #a88616,
-      8px 8px 0px #b08909, 10px 10px 0px #ab995e;
-  }
-  
-.footer-section {
-  text-align: left;
-  padding: 20px;
-  width: 100%;
-}
-
-.footer-section1 {
-  grid-row: 1;
-}
-
-.footer-section2 {
-  grid-column: 2 / span 2;
-}
-
-.footer-section3 {
-  grid-row: 2;
-  grid-column: 1 / span 3;
-}
-
-.footer-section3 > * {
-  display: inline;
-}
-
-.footer-section3 > a {
-  float: right;
-  padding: 0 20px;
-}
-
-.footer-section3 > p {
-  float: left;
-}
-
-.footer-section-inner-container {
-  margin: 15px 0;
-  padding: 25px;
-  width: 100%;
-  background-color: #666666;
-  text-align: justify;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-}
-
-.footer-section-inner-container > span {
-  margin: 10px 0;
-}
 
 /* Movie Section Styling */
 
 .movie-show-container {
   margin-top: 10;
-  padding: 0 10%;
+  padding: 0 1%;
 }
 
 .movie-show-container > h1 {
-  color: #6e5a11;
+  color: #000;
   text-align: left;
   padding: 0 0 10px 0;
 }
 
 .movie-show-container > h3 {
-  color: #969696;
+  color: #000;
   text-align: left;
   padding: 0 0 10px 0;
 }
@@ -583,7 +501,7 @@ footer {
   padding: 0 0 20px 0;
   margin: 0 0 40px 0;
   border-bottom: 1px solid #bdbdbd;
-  color: #6e5a11;
+  color: #000;
 }
 
 .schedule-dates {
@@ -594,7 +512,7 @@ footer {
 
 .schedule-item {
   padding: 15px;
-  background-color: #6e5a11;
+  background-color: #000;
   margin-right: 10px;
   color: #fff;
   cursor: pointer;
@@ -619,7 +537,7 @@ footer {
 
 .schedule-table table tr th {
   padding: 10px 0 10px 40px;
-  background-color: #6e5a11;
+  background-color: #000;
   border: 1px solid #b6b6b6;
   color: #fff;
 }
