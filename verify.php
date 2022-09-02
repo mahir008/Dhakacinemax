@@ -12,7 +12,7 @@ $type = $_POST['type'];
 $date = $_POST['date'];
 $time = $_POST['hour'];
 $movieid = $_POST['movie_id'];
-$order = "ARVR" . rand(10000, 99999999);
+$order = "BKASH" . rand(10000, 99999999);
 $cust  = "CUST" . rand(1000, 999999);
 
 //sessions
@@ -78,7 +78,7 @@ if (isset($_POST['submit'])) {
                         <td>3</td>
                         <td><label>Website ::*</label></td>
                         <td>
-                            <?php echo "ARVRcinemas"; ?>
+                            <?php echo "Dhaka Cineplex "; ?>
                         </td>
                     </tr>
                     <tr>
@@ -129,7 +129,8 @@ if (isset($_POST['submit'])) {
                     </tr>
                 </tbody>
             </table>
-            * - Mandatory Fields
+            * - Please pay the amount on Bkash and bring the order id to ticket counter upon entry
+            <img src="IMG_8120.PNG"class="animated-gif">
         </form>
     </center>
     <!-- Optional JavaScript -->

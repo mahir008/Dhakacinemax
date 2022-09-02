@@ -80,7 +80,7 @@ nav {
 
 .navbar ul li:hover {
   cursor: pointer;
-  background-color: #aa964c;
+  background-color: #431D53;
 }
 
 .navbar ul li:hover > a {
@@ -92,12 +92,12 @@ nav {
   opacity: 0;
   position: absolute;
   transition: all 0.5s ease;
-  background-color: #b6b6b6;
+  background-color: #431D53;
 }
 
 .navbar-menu li a {
   display: block;
-  color: #969696;
+  color: #000;
   text-align: center;
   padding: 12px 36px;
   text-decoration: none;
@@ -105,6 +105,7 @@ nav {
 
 .navbar-container {
   position: absolute;
+  color: #969696;
   top: 10em;
   right: 1%;
 }
@@ -199,94 +200,7 @@ nav {
   background-color: #ffffff;
 }
 
-/* Trailers Section */
 
-.trailers-section > h1,
-.trailers-section > h3 {
-  padding: 0 10%;
-}
-
-.trailers-section > h1 {
-  text-align: left;
-  color: #6e5a11;
-}
-
-.trailers-section > h3 {
-  text-align: left;
-  color: #969696;
-}
-
-.trailers-section > h3:after {
-  content: "";
-  display: block;
-  height: 3px;
-  width: 7%;
-  background: #6e5a11;
-  position: relative;
-  bottom: -10px;
-}
-
-.trailers-grid {
-  margin: 60px 0;
-  display: grid;
-  grid-template-columns: auto auto auto;
-  height: 80vh;
-}
-
-.trailers-grid-item {
-  font-size: 30px;
-  text-align: center;
-  overflow: hidden;
-  width: 100%;
-  height: 100%;
-  position: relative;
-  vertical-align: middle;
-}
-
-.trailer-item-video {
-  width: 100%;
-  height: 100%;
-}
-
-.trailers-grid-item img {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-
-.trailer-item-info {
-  position: absolute;
-  top: 50%;
-  transform: translate(0, -50%);
-  width: 100%;
-  height: 100%;
-  margin: auto;
-  z-index: 10;
-  vertical-align: middle;
-  opacity: 0;
-  transition: 0.7s ease;
-  background-color: rgb(0, 0, 0);
-  padding: 85px 0;
-}
-
-.trailer-item-info:hover {
-  opacity: 0.8;
-}
-
-.trailer-item-info h3 {
-  vertical-align: middle;
-  color: rgb(255, 255, 255);
-}
-
-.trailer-item-info i {
-  margin: 10px;
-  color: rgb(255, 255, 255);
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.trailer-item-info i:hover {
-}
 
 /* Services Section Styling */
 
@@ -994,3 +908,9 @@ nav {
   display: block;
   transition: all 0.7s ease;
 }
+
+   img.animated-gif{
+  width: 80px;
+  height: auto;
+}
+
