@@ -1,7 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
-
+</div>
+<head><!DOCTYPE html>
+<html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+<img src="Paddle-bat.gif" alt="Paris" style="width:15%;">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("it.jpg");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
+
+
+
+</body>
+</html>
+
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,7 +56,7 @@
             border-radius: 3px;
             width: 470px;
             height: 270px;
-              background-color: #512989;
+              background-color: #666362;
             box-shadow: 0px 2px 2px 0px gray;
             margin: 0 auto;
         }
@@ -29,7 +65,7 @@
             margin-top: 0px;
             font-weight: normal;
             padding: 10px;
-            background-color: #431D53;
+            background-color: #2E3033;
             color: white;
             font-family: sans-serif;
         }
@@ -48,7 +84,7 @@
         #div_login input[type=submit] {
             padding: 7px;
             width: 100px;
-            background-color: #9F2B67;
+            background-color: #E56717;
             border: 0px;
             color: white;
         }
