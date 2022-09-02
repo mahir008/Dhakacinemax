@@ -20,6 +20,7 @@
             border-radius: 3px;
             width: 470px;
             height: 270px;
+              background-color: #512989;
             box-shadow: 0px 2px 2px 0px gray;
             margin: 0 auto;
         }
@@ -28,7 +29,7 @@
             margin-top: 0px;
             font-weight: normal;
             padding: 10px;
-            background-color: cornflowerblue;
+            background-color: #431D53;
             color: white;
             font-family: sans-serif;
         }
@@ -47,7 +48,7 @@
         #div_login input[type=submit] {
             padding: 7px;
             width: 100px;
-            background-color: lightseagreen;
+            background-color: #9F2B67;
             border: 0px;
             color: white;
         }

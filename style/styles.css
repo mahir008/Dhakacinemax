@@ -657,7 +657,7 @@ footer {
 .admin-section-header {
   color: #fff;
   width: 100%;
-  background-color: #3a3a3a;
+  background-color: #512989;
   display: grid;
   grid-template-columns: 1fr 5fr;
 }
@@ -772,7 +772,7 @@ footer {
 }
 
 .admin-section1 ul ul li {
-  background-color: #4e4e4e;
+  background-color: #4F2271;
   margin-bottom: 1px;
 }
 
@@ -811,7 +811,7 @@ footer {
   align-items: center;
   justify-content: flex-start;
   padding-bottom: 20px;
-  border-bottom: #c7c7c7 1px solid;
+  border-bottom: #512989px solid;
 }
 
 .admin-panel-section-header > h2 {
