@@ -370,7 +370,7 @@ nav {
 }
 
 .booking-panel-section2 > i {
-  background-color: #b6b6b6;
+  background-color: #512989;
   color: #fff;
   padding: 15px;
   float: right;
@@ -397,13 +397,13 @@ nav {
 
 .booking-panel-section4 {
   border-radius: 10px;
-  border: 1px #6e5a11 solid;
+  border: 1px #9F2B67 solid;
   background-color: #fff;
 }
 
 .booking-panel-section4 > .title {
   border-bottom: #969696 1px solid;
-  color: #6e5a11;
+  color: #9F2B67;
   padding: 0 0 15px 0;
   margin: 0 0 15px 0;
   font-size: 24pt;
@@ -427,7 +427,7 @@ nav {
 }
 
 .booking-form-container {
-  background-color: #6e5a11;
+  background-color: #512989;
   width: 100%;
   padding: 25px;
   margin: 20px 0;
@@ -448,7 +448,7 @@ nav {
   float: right;
   width: 25%;
   text-align: center;
-  background-color: #a3861e;
+  background-color: #9F2B67;
   color: #fff;
   transition: all 0.7s ease;
   cursor: pointer;
@@ -473,7 +473,7 @@ nav {
   border-radius: 4px;
   outline: none;
   cursor: pointer;
-  color: #606060;
+  color: #512989;
   text-indent: 0.01px;
   text-overflow: "";
   width: 23%;
@@ -483,7 +483,7 @@ nav {
 
 .booking-form-container form input {
   border-radius: 4px;
-  border: 1px solid #6e6e6e;
+  border: 1px solid #512989;
   padding: 10px;
   width: 31%;
   height: 42px;

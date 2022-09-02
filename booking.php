@@ -23,7 +23,7 @@ $row = mysqli_fetch_array($movieImageById);
     <script src="_.js "></script>
 </head>
 
-<body style="background-color:#6e5a11;">
+<body style="background-color:#431D53;">
     <div class="booking-panel">
         <div class="booking-panel-section booking-panel-section1">
             <h1>RESERVE YOUR TICKET</h1>
@@ -85,11 +85,11 @@ $row = mysqli_fetch_array($movieImageById);
 
                     <select name="date" required>
                         <option value="" disabled selected>DATE</option>
-                        <option value="12-3">March 12,2019</option>
-                        <option value="13-3">March 13,2019</option>
-                        <option value="14-3">March 14,2019</option>
-                        <option value="15-3">March 15,2019</option>
-                        <option value="16-3">March 16,2019</option>
+                        <option value="12-3">September 10,2022</option>
+                        <option value="13-3">September 11,2022</option>
+                        <option value="14-3">September 12,2022</option>
+                        <option value="15-3">September 13,2022</option>
+                        <option value="16-3">September 14,2022</option>
                     </select>
 
                     <select name="hour" required>
