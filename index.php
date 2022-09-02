@@ -50,53 +50,7 @@
             // Close connection
             mysqli_close($con);
             ?>
-        </div>
-   
-    </div>
-    <div id="home-section-3" class="trailers-section">
-        <h1 class="section-title">Explore new movies</h1>
-        <h3>Now showing</h3>
-        <div class="trailers-grid">
-            <div class="trailers-grid-item">
-                <img src="img/movie-thumb-1.jpg" alt="">
-                <div class="trailer-item-info" data-video="Z1BCujX3pw8">
-                    <h3>Captain Marvel</h3>
-                    <i class="far fa-3x fa-play-circle"></i>
-                </div>
-                             </div>
-            <div class="trailers-grid-item">
-                <img src="img/movie-thumb-2.jpg" alt="">
-                <div class="trailer-item-info" data-video="OPEfsEaFv_c">
-                    <h3>Karmat Bytmrmt</h3>
-                    <i class="far fa-3x fa-play-circle"></i>
-                </div>
-            </div>
-            <div class="trailers-grid-item">
-                <img src="img/movie-thumb-3.jpg" alt="">
-                <div class="trailer-item-info" data-video="cksYkEzUa7k">
-                    <h3>The Lego Movie</h3>
-                    <i class="far fa-3x fa-play-circle"></i>
-                </div>
-            </div>
-            <div class="trailers-grid-item">
-                <img src="img/movie-thumb-4.jpg" alt="">
-                <div class="trailer-item-info" data-video="Ze5YA4mkzhI">
-                    <h3>Secret Men Club</h3>
-                    <i class="far fa-3x fa-play-circle"></i>
-                </div>
-            </div>
-            <div class="trailers-grid-item">
-                <img src="img/movie-thumb-5.jpg" alt="">
-                <div class="trailer-item-info" data-video="lbUAVTc7NTo">
-                    <h3>VICE</h3>
-                    <i class="far fa-3x fa-play-circle"></i>
-                </div>
-            </div>
-            <div class="trailers-grid-item">
-                <img src="img/movie-thumb-6.jpg" alt="">
-                <div class="trailer-item-info" data-video="RyFlfN4dD14">
-                    <h3>The Vanishing</h3>
-                    <i class="far fa-3x fa-play-circle"></i>
+        
                 </div>
             </div>
         </div>
