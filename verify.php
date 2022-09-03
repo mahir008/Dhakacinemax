@@ -21,7 +21,7 @@ $cust  = "CUST" . rand(1000, 999999);
 
 //conditions
 if ((!$_POST['submit'])) {
-    echo "<script>alert('You are Not Suppose to come Here Directly');window.location.href='index.php';</script>";
+    echo "<script>alert('Redirecting to homepage see ya chump');window.location.href='index.php';</script>";
 }
 
 if (isset($_POST['submit'])) {
@@ -151,6 +151,7 @@ img {
                 </tbody>
             </table>
             * - Please pay the amount on Bkash and bring the order id to ticket counter upon entry
+            Bkash No- 911
             
         </form>
     </center>
