@@ -2,6 +2,10 @@
 include "connection.php";
 session_start();
 
+
+//Md. Arian Rahman's contribution -> SQL  
+
+
 // variables
 $fname = $_POST['fName'];
 $lname = $_POST['lName'];
@@ -17,6 +21,8 @@ $cust  = "CUST" . rand(1000, 999999);
 
 //sessions
 // $_SESSION['ORDERID'] = $order;
+
+
 
 
 //conditions
