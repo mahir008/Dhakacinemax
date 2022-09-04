@@ -1,6 +1,11 @@
 <?php
 include "config.php";
 
+
+//Md. Arian Rahman's contribution -> SQL  
+
+
+
 if (isset($_POST['submit'])) {
     $fname = $_POST['fName'];
     $lname = $_POST['lName'];

@@ -2,6 +2,10 @@
 include "config.php";
 
 
+
+//Md. Arian Rahman's contribution -> SQL  
+
+
 // Check user login or not
 if (!isset($_SESSION['uname'])) {
     header('Location: index.php');
