@@ -595,9 +595,11 @@ footer {
 
 .contact-us-container {
   display: grid;
-  grid-gap: 25px;
+  grid-gap: 100px;
   grid-template-areas: "contact-form contact-form contact-info";
   margin: 30px 15%;
+     font-family: "Audiowide";
+   
 }
 
 .contact-us-section {
@@ -607,7 +609,9 @@ footer {
 .contact-us-section h1 {
   padding: 20px 0;
   border-bottom: #4e4e4e solid 1px;
-  margin-bottom: 20px;
+  font-size: 100px;
+    margin-bottom: 20px;
+    font-family: "Audiowide";
 }
 
 .contact-us-section1 {
@@ -621,6 +625,9 @@ footer {
 
 .contact-us-section1 form *:not(button) {
   border: #6e5a11 1px solid;
+    font-family: "Audiowide";
+       font-family: "Audiowide";
+   
 }
 
 .contact-us-section1 form button {
@@ -628,17 +635,28 @@ footer {
   color: #b6b6b6;
   border: none;
   cursor: pointer;
+    font-family: "Audiowide";
+    font-size: 100px;
 }
 
 .contact-us-section2 {
   grid-area: contact-info;
+     font-family: "Audiowide";
+   
 }
 
 .contact-us-section2 h3 {
   color: #4e4e4e;
+     font-family: "Audiowide";
+   
+  font-size: 50px;
   border-bottom: #6e5a11 solid 1px;
   padding: 10px 0;
   margin-bottom: 10px;
+    font-family: "Audiowide";
+       font-family: "Audiowide";
+   
+   
 }
 
 /* Admin Panel Styling */
